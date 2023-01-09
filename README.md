@@ -16,7 +16,7 @@ Link to my [github portfolio](https://github.com/ReeceRenninger)
 Reminders to stay in Growth Mindset
 1. Be comfortable being uncomfortable. Understand that I will feel like I am behind or not getting something as fast as my fellow classmates, and that is okay.  Everyone progresses at their own speed and I will get there.
 2. Don't hit a wall and stay there forever. Do not become stubborn and try to move the immovable object with unstoppable force.  Take a break, ask questions of others, or simply seek help.
-3. Utilize my fellow classmates and instructors when I get stuck. Teamwork makes the dream work.  Make new connections, feed off each others strengths, and acknowledge each other's weaknesses. Help each other build and you will 
+3. Utilize my fellow classmates and instructors when I get stuck. Teamwork makes the dream work.  Make new connections, feed off each others strengths, and acknowledge each other's weaknesses. Help each other build and you will succeed.
 
 
 
