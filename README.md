@@ -20,5 +20,5 @@ Reminders to stay in Growth Mindset
 
 
 
-### Fun fact, while stationed in DC I performed Tuesday evening parades every summer at the Iwo Jima Memorial
+<sub>Fun fact, while stationed in DC I performed Tuesday evening parades every summer at the Iwo Jima Memorial</sub>
 ![iwo jima memorial](https://user-images.githubusercontent.com/109825175/211393677-c34b7228-5544-451a-b9de-376c6deef759.jpeg)
