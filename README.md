@@ -1,6 +1,8 @@
 # reading-notes
 Reading journal for Code Fellows
 
+
+
 # **Welcome to the _THUNDERDOME_ of notes**
 > Mad Max (or somebody)
 
