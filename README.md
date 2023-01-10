@@ -10,7 +10,7 @@ Reading journal for Code Fellows
 
 Code 102 Reading Notes
 
-- [Read 01 Notes](https://reecerenninger.github.io/reading-notes/102ClassNotes/read01notes)
+- [Read 01 Notes](./102ClassNotes/read01notes.md)
 - [Read 02 Notes](https://reecerenninger.github.io/reading-notes/102ClassNotes/read02notes)
 - [Read 03 Notes](https://reecerenninger.github.io/reading-notes/102ClassNotes/read03notes)
 - [Read 04 Notes](https://reecerenninger.github.io/reading-notes/102ClassNotes/read04notes)
