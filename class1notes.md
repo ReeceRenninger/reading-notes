@@ -1,4 +1,4 @@
-### Reading Assignment 1 Notes
+### Read 01: Learning Markdown
 
 - [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
