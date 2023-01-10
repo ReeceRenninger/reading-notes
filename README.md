@@ -2,6 +2,10 @@
 
 Reading journal for Code Fellows
 
+## **Welcome to the _THUNDERDOME_ of notes**
+
+> Mad Max (or somebody)
+
 ## Table of Content
 
 Code 102 Reading Notes
@@ -32,12 +36,6 @@ Code 201 Reading Notes
 - [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classThirteen)
 - [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classFourteen)
 - [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classFifteen)
-
-
-
-## **Welcome to the _THUNDERDOME_ of notes**
-
-> Mad Max (or somebody)
 
 ## Hello my name is Reece Renninger and I am currently a student at Code Fellows in the 102 class. I am a United States Marine Corps veteran and attended California State University Long Beach where I earned my BA in Psychology.  I am pursuing this new career in tech because it has always been a passion I have wanted to pursue.
 
