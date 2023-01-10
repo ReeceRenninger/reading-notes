@@ -1,4 +1,4 @@
-### Reading Assignment Notes
+### Reading Assignment 1 Notes
 
 - [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
