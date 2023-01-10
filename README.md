@@ -1,13 +1,15 @@
+## reading-notes
+Reading journal for Code Fellows
+
+
+
+
 # Table of Content
 - [Read 01 Notes](https://reecerenninger.github.io/reading-notes/read01notes)
 - [Read 02 Notes](https://reecerenninger.github.io/reading-notes/read02notes)
 - [Read 03 Notes](https://reecerenninger.github.io/reading-notes/read03notes)
 - [Read 04 Notes](https://reecerenninger.github.io/reading-notes/read04notes)
 
-
-
-## reading-notes
-Reading journal for Code Fellows
 
 
 
