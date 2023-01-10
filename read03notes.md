@@ -10,7 +10,7 @@ DVCS allows for mirrored repositories to ensure there are backups if anything ha
 - Large amount of steps that we did during installfest, good reference point if I ever need to redo this for any reason.
 - We can import and clone using the terminal.
 ![lifeCycleFileStatus](https://user-images.githubusercontent.com/109825175/211610638-6a7313fd-ab18-4e75-bb94-1644c6dcf3a9.png)
-- Can utilize git stash to store changes without committing to the file.  git stash apply can retrive the hidden changes.
+- Can utilize git stash to store changes without committing to the file.  git stash apply can retrieve the hidden changes.
 - Remote repositories can have set read/write or read-only privleges. This is where you can push information or pull data from.
 - git remote command you can view origins of remote handles that you specify.
 - get remote -v will show all the remote URLs next to the names.
