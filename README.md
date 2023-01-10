@@ -1,5 +1,8 @@
 # Table of Content
-- [Class 1 Notes](https://reecerenninger.github.io/reading-notes/class1notes)
+- [Read 01 Notes](https://reecerenninger.github.io/reading-notes/class1notes)
+- [Read 02 Notes](https://reecerenninger.github.io/reading-notes/read02notes)
+- [Read 03 Notes](https://reecerenninger.github.io/reading-notes/read03notes)
+- [Read 04 Notes](https://reecerenninger.github.io/reading-notes/read04notes)
 
 
 
