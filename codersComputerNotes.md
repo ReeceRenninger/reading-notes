@@ -34,3 +34,4 @@ This also reminds me of a game called World of Haiku that makes you use commands
 
 
 ## Things I want to know more about
+- I will have many questions when we start to manipulate the terminal more, for now I think I get the simple commands posted above.
