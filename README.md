@@ -4,7 +4,7 @@ Reading journal for Code Fellows
 
 ## Table of Content
 
-Class 102 Notes
+Code 102 Reading Notes
 
 - [Read 01 Notes](https://reecerenninger.github.io/reading-notes/read01notes)
 - [Read 02 Notes](https://reecerenninger.github.io/reading-notes/read02notes)
@@ -15,7 +15,24 @@ Class 102 Notes
 - [Read 07 Notes](https://reecerenninger.github.io/reading-notes/read07notes)
 - [Read 08 Notes](https://reecerenninger.github.io/reading-notes/read08notes)
 
-Class 201 Notes
+Code 201 Reading Notes
+
+- [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classOne)
+- [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classTwo)
+- [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classThree)
+- [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classFour)
+- [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classFive)
+- [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classSix)
+- [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classSeven)
+- [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classEight)
+- [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classNine)
+- [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classTen)
+- [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classEleven)
+- [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classTwelve)
+- [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classThirteen)
+- [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classFourteen)
+- [Class 01 Notes](https://reecerenninger.github.io/reading-notes/201classFifteen)
+
 
 
 ## **Welcome to the _THUNDERDOME_ of notes**
