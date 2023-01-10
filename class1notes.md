@@ -15,7 +15,7 @@
 
 1. Extremely useful MDN style webpage.
 2. Can easily navigate to sections using the side bar links.
-3. Footnotes are extremely easy to add based off the provided syntax.
+3. Footnotes are extremely easy to add based off the provided syntax[^1].
 
 
 - [Github Pages](https://pages.github.com/)
