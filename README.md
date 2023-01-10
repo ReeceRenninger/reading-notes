@@ -1,4 +1,9 @@
-# reading-notes
+# Table of Content
+- [Class 1 Notes](https://reecerenninger.github.io/reading-notes/class1notes)
+
+
+
+## reading-notes
 Reading journal for Code Fellows
 
 
@@ -19,9 +24,6 @@ Reminders to stay in Growth Mindset
 3. Utilize my fellow classmates and instructors when I get stuck. Teamwork makes the dream work.  Make new connections, feed off each others strengths, and acknowledge each other's weaknesses. Help each other build and you will all succeed.
 
 
-Class Notes/Lab links
-
-[Class 1 Notes](https://reecerenninger.github.io/reading-notes/class1notes)
 
 
 
