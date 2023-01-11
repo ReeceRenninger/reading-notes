@@ -15,9 +15,21 @@ DVCS allows for mirrored repositories to ensure there are backups if anything ha
 - git remote command you can view origins of remote handles that you specify.
 - get remote -v will show all the remote URLs next to the names.
 
+## COMMAND TERMINAL CHEAT SHEET
 
-
-
+- LAUNCHING A WEBPAGE FROM GITHUB, settings, pages, change branch from none to main and save. done.
+- Only have to clone one time for each project from github to local computer.
+- mv filename nameLocationFolder ex. mv random-web-idea courses
+- git clone url, is how you clone a github respository to your current location in the terminal
+- gitflow:acp / add, commit, push 
+- git status , tell you what files have changed since your last commit
+- git add filename, tell gits to includes changes in the next snapshot, stage files to have the snapshot prepared
+- git add filename filename, can add multiple by adding each name with a space OR you can do  git add .   , this will grab all the changes on all the files.
+- always check git status to ensure everything is staged properly.
+- git commit -m "your message goes here"  (-m is a message flag so you can add a message)
+- git push origin main  , commit takes the snapshot push sends to GitHub
+- git pull origin main, if changes have been made on GitHub, you will be given options of what to do. Merge option may be best option FOR NOW.
+- Vstudio will showcase the changes and YOU HAVE TO SELECT WHAT OPTIONS
 
 
 
