@@ -30,7 +30,7 @@ DVCS allows for mirrored repositories to ensure there are backups if anything ha
 - git push origin main  , commit takes the snapshot push sends to GitHub
 - git pull origin main, if changes have been made on GitHub, you will be given options of what to do. Merge option may be best option FOR NOW.
 - Vstudio will showcase the changes and YOU HAVE TO SELECT WHAT OPTIONS
-
+- mkdir filename, creates a new directory or folder
 
 
 
