@@ -27,3 +27,7 @@ Skim Sources
 
 - CSS reference has a massive amount of reference links on how to change hundreds of different attributes on elements.
 - Myer Web open source looks like something I will be referring to constantly as we progress through CSS. Being able to set pages to defaults or reset, I think will help me get my bearing on CSS some.
+
+## Class Notes
+
+

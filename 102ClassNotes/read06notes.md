@@ -9,3 +9,5 @@
 [Variables](https://code-maven.com/javascript-input-with-prompt-and-confirm)
 
 [How Computers Work - Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+
+## Class Notes

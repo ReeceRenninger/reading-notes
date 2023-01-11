@@ -37,7 +37,7 @@ Code 201 Reading Notes
 - [Class 14 Notes](201ClassNotes/201classFourteen.md)
 - [Class 15 Notes](201ClassNotes/201classFifteen.md)
 
-## Hello my name is Reece Renninger and I am currently a student at Code Fellows in the 102 class. I am a United States Marine Corps veteran and attended California State University Long Beach where I earned my BA in Psychology.  I am pursuing this new career in tech because it has always been a passion I have wanted to pursue.
+## Hello my name is Reece Renninger and I am currently a student at Code Fellows in the 102 class. I am a United States Marine Corps veteran and I previously attended California State University Long Beach where I earned my BA in Psychology.  I am pursuing this new career in coding because it has always been my dream.
 
 Link to my [github portfolio](https://github.com/ReeceRenninger)
 
