@@ -30,4 +30,4 @@ Skim Sources
 
 ## Class Notes
 
-
+- select text then hit alt up or down arrow to move selected text around.
