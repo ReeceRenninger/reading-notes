@@ -2,7 +2,7 @@
 
 [What is CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 
-- CSS(Cascading Sytle sheets) specifies how documents are presented.
+- CSS(Cascading Style sheets) specifies how documents are presented.
 
 [How to add CSS](https://www.w3schools.com/css/css_howto.asp)
 
