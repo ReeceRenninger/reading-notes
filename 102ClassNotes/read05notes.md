@@ -37,3 +37,4 @@ Skim Sources
 - you can grab certain elements by ids or classes to UNIQUELY IDENTIFY A SINGULAR OR GROUP OF ELEMENTS. id="uniqueNameHere" class="uniqueNameHere"
 - you can grab by id by using #idName {} in CSS or .className {}
 - Try to always use external sheet when applying CSS, otherwise internal and then inline will be applied AFTER the external and things can be overwritten
+- CSS zen garden website
