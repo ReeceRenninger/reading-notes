@@ -35,4 +35,5 @@ Skim Sources
 - *{} selects EVERYTHING IN AN HTML FILE if being used internally
 - float {} can be used to move an element into a position which will then cause the following elements to move up next to the moved element.
 - you can grab certain elements by ids or classes to UNIQUELY IDENTIFY A SINGULAR OR GROUP OF ELEMENTS. id="uniqueNameHere" class="uniqueNameHere"
-- you can grab by id by using #idName {} in css or .className {}
+- you can grab by id by using #idName {} in CSS or .className {}
+- Try to always use external sheet when applying CSS, otherwise internal and then inline will be applied AFTER the external and things can be overwritten
