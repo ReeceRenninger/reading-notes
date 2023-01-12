@@ -88,3 +88,7 @@ Skim Material
 - expressions and functions links is a good quick link for examples of the above operators and expressions, will be used for easy references.
 - Second link goes over different function declarations.
 - Second example breaks down a lot different function elements and how loops can be used within functions.
+ 
+ ## Things I want to know more about
+ 
+ - how to create an infinite prompt request to force user input
