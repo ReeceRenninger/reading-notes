@@ -77,3 +77,17 @@ while (n < 3) {
 - be better at destructuring
 
 ## Class Notes
+
+- while(condition is true){ 
+  this code will execute}
+  // possibly apply this to user prompt while user==false? have to try in VS
+- while (x < 10) {
+  console.log(x)
+  x++;
+}
+- for(let i = 0;i<16;i++){
+  console.log("Hello student " + i)
+}
+ 0 to 15 would print Hello Student 0 then 1, 2,3 and so on until 15 is hit
+
+-
