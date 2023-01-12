@@ -84,3 +84,7 @@ function myFunction() {
 Skim Material
 [Expressions and Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+
+- expressions and functions links is a good quick link for examples of the above operators and expressions, will be used for easy references.
+- Second link goes over different function declarations.
+- Second example breaks down a lot different function elements and how loops can be used within functions.
