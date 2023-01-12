@@ -70,3 +70,8 @@ while (n < 3) {
 }
 
 - This will continue until n is less than (<) 3
+
+## Things I want to know more about
+
+- how to use while loops effectively ( i suck at them)
+- be better at destructuring
