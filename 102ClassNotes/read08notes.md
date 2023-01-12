@@ -2,25 +2,6 @@
 
 1.[Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 
-- Assignment operator chart pulled from link above.
-Name 	                              Shorthand operator 	    Meaning
-Assignment                	        x = f() 	              x = f()
-Addition assignment 	              x += f() 	              x = x + f()
-Subtraction assignment              x -= f() 	              x = x - f()
-Multiplication assignment 	        x *= f() 	              x = x * f()
-Division assignment 	              x /= f() 	              x = x / f()
-Remainder assignment 	              x %= f() 	              x = x % f()
-Exponentiation assignment 	        x **= f() 	            x = x ** f()
-Left shift assignment 	            x <<= f() 	            x = x << f()
-Right shift assignment 	            x >>= f()     	        x = x >> f()
-Unsigned right shift assignment 	  x >>>= f()    	        x = x >>> f()
-Bitwise AND assignment 	            x &= f()    	          x = x & f()
-Bitwise XOR assignment 	            x ^= f() 	              x = x ^ f()
-Bitwise OR assignment 	            x |= f() 	              x = x | f()
-Logical AND assignment 	            x &&= f() 	            x && (x = f())
-Logical OR assignment 	          x ||= f() 	              x || (x = f())
-Nullish coalescing assignment   	x ??= f() 	              x ?? (x = f())
-
 - The precedence of operators determines the order in which they are applied, so think of PEMDAS.
 - Both of these result in same output
 
