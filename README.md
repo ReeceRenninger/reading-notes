@@ -49,6 +49,9 @@ Link to my [github portfolio](https://github.com/ReeceRenninger)
 
 - While stationed in DC I performed Tuesday evening parades every summer at the Iwo Jima Memorial.
 
+![iwo jima memorial](Iwoparade.Me.jpg)
+
 - I had the honor of doing the coin flip for an international soccer game.
+
+![soccer game](coinflip.peruVSus.jpg)
  </sub>  🇺🇸
-![iwo jima memorial](https://user-images.githubusercontent.com/109825175/211393677-c34b7228-5544-451a-b9de-376c6deef759.jpeg)
