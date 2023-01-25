@@ -1,6 +1,6 @@
 # reading-notes
 
-Reading journal for Code Fellows
+Reading journal for my Code Fellows journey!
 
 ## **Welcome to the _THUNDERDOME_ of notes**
 
@@ -8,7 +8,7 @@ Reading journal for Code Fellows
 
 ## Table of Content
 
-Code 102 Reading Notes
+Code 102 - Intro to Software Development
 
 - [Read 01 Notes](102ClassNotes/read01notes.md)
 - [Read 02 Notes](102ClassNotes/read02notes.md)
@@ -19,7 +19,7 @@ Code 102 Reading Notes
 - [Read 07 Notes](102ClassNotes/read07notes.md)
 - [Read 08 Notes](102ClassNotes/read08notes.md)
 
-Code 201 Reading Notes
+Code 201 - Foundations of Software Development
 
 - [Class 01 Notes](201ClassNotes/201classOne.md)
 - [Class 02 Notes](201ClassNotes/201classTwo.md)
@@ -37,9 +37,18 @@ Code 201 Reading Notes
 - [Class 14 Notes](201ClassNotes/201classFourteen.md)
 - [Class 15 Notes](201ClassNotes/201classFifteen.md)
 
-## Hello my name is Reece Renninger and I am currently a student at Code Fellows in the 102 class. I am a United States Marine Corps veteran and I previously attended California State University Long Beach where I earned my BA in Psychology.  I am pursuing this new career in coding because it has always been my dream.
+Code 301 - Intermediate Software Development
+
+Code 401 - Advanced Software Development
+
+## Hello my name is Reece Renninger and I am currently a student at Code Fellows in the 201 class. I am a United States Marine Corps veteran and I previously attended California State University Long Beach where I earned my BA in Psychology.  I am pursuing this new career in coding because it has always been my dream.
 
 Link to my [github portfolio](https://github.com/ReeceRenninger)
 
-🇺🇸<sub>Fun fact, while stationed in DC I performed Tuesday evening parades every summer at the Iwo Jima Memorial</sub>  🇺🇸
+🇺🇸<sub>Fun facts:
+
+- While stationed in DC I performed Tuesday evening parades every summer at the Iwo Jima Memorial.
+
+- I had the honor of doing the coin flip for an international soccer game.
+ </sub>  🇺🇸
 ![iwo jima memorial](https://user-images.githubusercontent.com/109825175/211393677-c34b7228-5544-451a-b9de-376c6deef759.jpeg)
