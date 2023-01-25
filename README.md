@@ -45,7 +45,7 @@ Code 401 - Advanced Software Development
 
 Link to my [github portfolio](https://github.com/ReeceRenninger)
 
-🇺🇸<sub>Fun facts:
+🇺🇸 <sub>Fun facts:</sub> 🇺🇸
 
 - While stationed in DC I performed Tuesday evening parades every summer at the Iwo Jima Memorial.
 
@@ -54,4 +54,3 @@ Link to my [github portfolio](https://github.com/ReeceRenninger)
 - I had the honor of doing the coin flip for an international soccer game.
 
 ![soccer game](coinflip.peruVSus.jpg)
- </sub>  🇺🇸
