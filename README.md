@@ -45,7 +45,7 @@ Code 401 - Advanced Software Development
 
 Link to my [github portfolio](https://github.com/ReeceRenninger)
 
-🇺🇸 <sub>Fun facts:</sub> 🇺🇸
+🇺🇸 Fun facts: 🇺🇸
 
 - While stationed in DC I performed Tuesday evening parades every summer at the Iwo Jima Memorial.
 
