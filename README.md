@@ -10,14 +10,14 @@ Reading journal for my Code Fellows journey!
 
 Code 102 - Intro to Software Development
 
-- [Read 01 Notes](102ClassNotes/read01notes.md)
-- [Read 02 Notes](102ClassNotes/read02notes.md)
-- [Read 03 Notes](102ClassNotes/read03notes.md)
-- [Read 04 Notes](102ClassNotes/read04notes.md)
-- [Read 05 Notes](102ClassNotes/read05notes.md)
-- [Read 06 Notes](102ClassNotes/read06notes.md)
-- [Read 07 Notes](102ClassNotes/read07notes.md)
-- [Read 08 Notes](102ClassNotes/read08notes.md)
+- [Class 01 Notes](102ClassNotes/read01notes.md)
+- [Class 02 Notes](102ClassNotes/read02notes.md)
+- [Class 03 Notes](102ClassNotes/read03notes.md)
+- [Class 04 Notes](102ClassNotes/read04notes.md)
+- [Class 05 Notes](102ClassNotes/read05notes.md)
+- [Class 06 Notes](102ClassNotes/read06notes.md)
+- [Class 07 Notes](102ClassNotes/read07notes.md)
+- [Class 08 Notes](102ClassNotes/read08notes.md)
 
 Code 201 - Foundations of Software Development
 
