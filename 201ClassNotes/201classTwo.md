@@ -4,7 +4,7 @@
 1. Semantics elements are beneficial in HTML because they help us use previous experiences to understand what that element will do. It allows for concise and efficient readability.
 2. There are 6 heading levels in HTML
 3. Using superscript or subscript element in niche situations such as writing equations or chemical formulations so they will have the correct formatting style.
-4. When using the abbreviation element we muse use a title element if we are poviding the full expansion of the term.
+4. When using the abbreviation element we muse use a title element if we are providing the full expansion of the term.
 
 [How Css is Structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)
 
@@ -12,7 +12,7 @@
 2. Inline styles take priority over all other style types so they can be used in some situations but still not advised.  They also require you to MANUALLY style each element rather than in clusters.
 3. Review Code Block questions
   - The h2 is the selector being represented.
-  - At the basic level components in CSS are properties and values.  The properties are the idenitifiers for the style change, such as color or font-size. Where value is how to style the selected property. 
+  - At the basic level components in CSS are properties and values.  The properties are the identifiers for the style change, such as color or font-size. Where value is how to style the selected property. 
   - In this example the color and padding are properties while the black and 5px are the values.
 
 [JavaScript Basics : Starting at Comments to Events](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
