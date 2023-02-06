@@ -40,4 +40,8 @@
 1. For a page to not be considered a static page, JS is needed. To have updating content or interactive maps the page will require JS to be involved.
 2. You can add JS internally by using the script element and inputting code between the tags. You can use an external page and connect them using a script tag with a src. Lastly, you can use JS inline which will be pieces of code living inside the HTML page itself.
 
+## Class Notes
+
+- Mostly a review week
+
 ## Things I want to know more about
