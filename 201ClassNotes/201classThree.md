@@ -1,19 +1,25 @@
 # Notes
 
 [Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 - Ordered and Unordered Lists
+
 1.
 2.
 3.
 4.
 
 [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+
 - The Box Model
+
 1. 
 2.
 
 [Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+
 - Arrays. Operators and Expressions. Conditionals. Loops.
+
 1.
 2.
 
