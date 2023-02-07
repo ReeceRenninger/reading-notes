@@ -26,9 +26,50 @@
 1. An if statement checks a condition and if that condition is truthy it will execute its block of code.
 2. An else if allows us to have more if style statements to check multiple different conditions and have different outcomes based on the executing code.
 3. Three types of comparison operators are === and !== that tests if a value is IDENTICAL or not identical to another. The < and > test values are less or greater than each other. And the <= or >= test if values are less than or equal to or greater than or equal to.
-4. The logical operators consist of && and ||. The && represents and, that ALL EXPRESSIONS to individually evaluate to true for the whole expression to be true.  Where ||, or, allows you to chain multiple expressions so that only ONE or MORE have to evaluate to true for the whole expression to return true.
+4. The logical operators consist of &&, ||, !. The && represents and, that ALL EXPRESSIONS to individually evaluate to true for the whole expression to be true.  Where ||, or, allows you to chain multiple expressions so that only ONE or MORE have to evaluate to true for the whole expression to return true. ! represents NOT so it will give you the opposite of whatever you put it in front of.
 
 
 ## Class Notes 2/7/2023
+
+### Javascript
+
+JavaScript is a **loosely type** and **dynamic** language.
+
+-loosely typed: we don't need to know the type of data before declaring a variable.
+-dynamic: we can change the type of data after the variable have been declared.
+
+### Data types
+
+1. Strings
+
+- sequence of charactes that will represent text, wrapped in ' or ".
+
+2. Numbers
+
+- numeric data type.
+- full numbers, decimals, negatives
+
+3. Boolean
+
+- logical data type
+- true or false
+- truthy of falsey
+
+  - numbers only contain 0 as a falsey value, all other numbers are truthy
+
+  - strings only have EMPTY(no space or any value ex '') strings equate to falsey value, all other strings are truthy
+
+  - 
+
+4. Undefined
+
+- it hasn't been DEFINDED yet
+
+5. Null
+
+- has been defined but as none
+- let dog = null;
+
+
 
 ## Things I want to know
