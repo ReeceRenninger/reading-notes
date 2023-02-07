@@ -51,5 +51,6 @@ const people = [
  // evaluate this
  (a + c) + b;
 ```
+
 5. In a reward style system a conditional statement could be used.  If you do something, you receive something as a reward.  A conditional could be used in this type of scenario. If x = chores done, code runs to reward you with running/ get money.
 6. Whenever you need to iterate over something multiple times or if you need to do something over and over such as a mathemetical equation.
