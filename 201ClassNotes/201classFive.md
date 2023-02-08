@@ -13,11 +13,11 @@
 [Using Color in CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color)
 [Styling HTML Text Elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 
-1.
-2.
-3.
-4.
-5.
+1. The foreground color in CSS changes the content, such as the text color in an HTML element. While the background color changes the color BEHIND the content or text. So foreground would represent the black text while background is the white behind it.
+2. I could use color to make the texts have varying colors to make them pop off the page or add text decorations to the words to make them more unique looking in varying sections.  We could also change the background color of sections to color coordinate ideas or thoughts.
+3. Accessibility and readability.  You do not want to have a wonky text that is difficult for people to read or even unable to read for people with poor eyesight.
+4. Font-size adjusts the font size of the selected element.  Font-weight can make the text look bolder or lighter depending on the weight given as the value.  While font-style can change the font to be italics, normal, oblique.
+5. We can use letter-spacing or word-spacing to provide spacing between letters or words within a selected text.  
 
 ## Class Notes
 
