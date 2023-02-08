@@ -93,29 +93,77 @@ console.log(myNum);
 
 - `.push()` - add an element(s) to the end of your array
 
-  ```js
+```js
   nums.push(7,8,9,10); // pushing values to end of nums array
   console.log(nums);
 
   myMixArr[3].push(7,9,11); //push values at last index position [3] in array
   console.log(myMixArr);
-  ```
+```
 
 - `.pop()` - remove last element in an array
 
-  ```js
+```js
   //removes the 10 element from nums array and captures it in variable
   let myPoppedEle = nums.pop(); 
   console.log(nums);
   console.log(myPoppedEle);
-  ```
+```
 
 - Array properties
   - `.length` - tell you how many elements are in the array
+
+```js
+ //informs how many elements by index number
+ console.log(nums.length); // 8
+```
+
 - When working with mixed arrays nested in each other, you can still call a specific element by using something like myNums= nums[1][2]. Which would pull the first index THEN the index position within that first called array.  console.table is huge for visually seeing positions
 
 ## Loops
+
 ## FOR LOOPS
+
+- doing something for a certain amount of times, like looping through an array by using the length property
+
+```js
+  for(starting value; condition; increment/decrement of starting value){
+    ^ if the condition is not met this code will run in the braces
+  }
+  for(let i=0;i<array.length;i++){
+    console.log(`This was the value in ${array[i]}`);
+  }
+```
+
 ## WHILE LOOPS
+
+- doing something until a condition is no longer true
+- be careful of INFINITY LOOPS
+
+```js
+  while(condition){
+    code to run if condition is true
+  }
+
+  let myNum = 4;
+  let userGuess = prompt ('What number am I thinking of?');
+
+  // simple example of while loop using loosely equal
+  while(userGuess != 4){
+    userGuess = prompt ('Try again, what is my number?');
+  }
+  // clue to lab with limiting guess numbers by user
+  let numOfPizza = 0;
+  while(numOfPizza < 6){
+    numOfPizza++;
+    console.log('The universe gave me a slice of pizza!');
+  }
+
+  let numOfGuesses = 4;
+  while(numOfGuesses){
+    let userGuess = prompt ('what number am I thinking of?');
+    numOfGuesses--;
+  }
+```
 
 ## Things I want to know
