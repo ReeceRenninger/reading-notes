@@ -29,4 +29,56 @@
 
 ## Class Notes
 
+- Refer to video if I need a break down on the nesting loops from code review at beginning of day
+- CSS fixed and absolute can be interesting to use as I style my page more.
+
+### Functions
+
+- reusable piece of code
+- anatomy of a function - function declaration
+- function = keyword, sum = function name, a & b = parameters
+- 2 step process of declaration/declare and call/invoke.
+- HOISTING is very important, first pass it hoists all the variables and functions then on second pass it invokes/calls all the functions.
+
+```js
+ 'use strict';
+
+function sum(a,b){
+   return a + b;
+}
+sum(); // < -- Calling the function to be activated, can pass arguments into the ().
+
+// function declaration
+function greeting(){
+  console.log('Hello Class!');
+}
+greeting();
+
+//function expression
+let newGreeting = function(){
+  console.log('A new hello to you!')
+}
+newGreeting();
+```
+
+More Examples
+
+```js
+
+function equations(a,b){
+  let product = a*b;
+  let sum = a+b;
+  let difference = a-b;
+  //can use array with return to return more than ONE thing
+  // returns primarily return one value
+  return [product, sum, difference];
+}
+
+let myNumbers = equations(5,10);
+console.log(myNumbers); //[50,15,-5]
+//this calls equations function with 2 arguments BUT then focuses on the product by using [0].
+let myProduct = equations(2,10)[0];
+console.log(myProduct); // 20
+```
+
 ## Things I want to know
