@@ -1,4 +1,6 @@
-# Notes
+# [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
+
+## Notes
 
 [Using Images In HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 [Common Image Types](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types)

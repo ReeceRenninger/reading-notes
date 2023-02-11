@@ -1,4 +1,6 @@
-# Notes
+# [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
+
+## Notes
 
 [JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
