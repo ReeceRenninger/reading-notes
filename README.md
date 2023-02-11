@@ -35,7 +35,6 @@ Code 201 - Foundations of Software Development
 - [Class 12 Notes](201ClassNotes/201classTwelve.md)
 - [Class 13 Notes](201ClassNotes/201classThirteen.md)
 - [Class 14 Notes](201ClassNotes/201classFourteen.md)
-- [Class 15 Notes](201ClassNotes/201classFifteen.md)
 
 Code 301 - Intermediate Software Development
 
