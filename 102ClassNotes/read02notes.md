@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-# Read: 02 The Coder's Computer Reading
+## Read: 02 The Coder's Computer Reading
 
 - [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
 

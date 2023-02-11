@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-# Notes
+## Notes
 
 [Learn CSS-Flexbox](https://web.dev/learn/css/flexbox/)
 

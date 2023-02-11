@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-# Read 06: Dynamic web pages with JavaScript
+## Read 06: Dynamic web pages with JavaScript
 
 [Js Intro Paragraph](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 

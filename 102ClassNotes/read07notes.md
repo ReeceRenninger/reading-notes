@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-# Read 07: Programming with Javascript
+## Read 07: Programming with Javascript
 
 1. [MDN Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
 

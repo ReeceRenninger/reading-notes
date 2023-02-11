@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-# Read 03: Revisions and the Cloud
+## Read 03: Revisions and the Cloud
 
 [Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 - Through version control you can revert or project a previous version of a file. You can also modify and change them. (VCS)

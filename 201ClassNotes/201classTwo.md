@@ -1,4 +1,7 @@
-# Notes
+# [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
+
+## Notes
+
 [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 
 1. Semantics elements are beneficial in HTML because they help us use previous experiences to understand what that element will do. It allows for concise and efficient readability.

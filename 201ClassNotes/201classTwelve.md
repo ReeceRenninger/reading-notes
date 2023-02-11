@@ -1,4 +1,6 @@
-# Notes
+# [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
+
+## Notes
 
 [JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
 
