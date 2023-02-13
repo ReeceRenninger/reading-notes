@@ -52,4 +52,39 @@ const dog = {
 
 ## Class Notes
 
+- Objects are:
+  - Data types // Data structure
+  - Convenient & Powerful way of storing data and functions
+  - Use curly braces and comma separated key/value pairs
+  - functions that are stored in objects are referred to as methods
+  - Objects can be accessed via the dot notation ex: person.name would print Audrey
+  - Objects can also be accessed via [] notation ex: person['Is Remote'] would be how we can pull "WEIRD" keys.  
+  - Dot notation is the primary way to pull from objects, but brackets can be used for the weird situation and for pulling variables within objects (use for later).
+  - Calling functions in objects can be done with dot notation. ex: 
+    person.says(); would print out Hey Class!
+  - .this keyword can be used to allow for dynamic calling
+    ex: the person.says(); will now output 'Hello welcome to class 201d94 everyone!.
+
+```js
+// array example
+let myArr = ['Audrey', 36, true, 'Instructor'];
+
+//object example
+let person = {
+  name: 'Audrey';
+  age: 36;
+  'isRemote': true;
+  title: 'Instructor';
+  10: 'This is a key that is a number';
+  course: '201d97';
+  says: function(){
+    console.log(`Hello welcome to class ${this.course} everyone!`);
+  }
+}
+
+// can add to objects with dot notation as well, the below code will add interests to the person object above
+person.interests = ['celebs','tattoos','art'];
+
+```
+
 ## Things I want to know more about
