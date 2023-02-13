@@ -87,4 +87,8 @@ person.interests = ['celebs','tattoos','art'];
 
 ```
 
+- DOM can be viewed by using document in console.  Shows the structure of HTML page.
+
+![DOM image from lecture](DOM-basics-starter.png)
+
 ## Things I want to know more about
