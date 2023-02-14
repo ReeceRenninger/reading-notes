@@ -28,4 +28,70 @@
 
 ## Class Notes
 
+-Constructors are a special type of function
+  -instantiate/create objects
+  -act like a blueprint or 'factory'
+  -start with a keyword 'function'
+-Why do we use Constructors?
+  -keep our code dry
+  -helps us to prevent bugs
+  -give us a more unified/uniform objects
+
+```js
+'use strict';
+
+let personA = {
+  name: 'Audrey',
+  title: 'Instructor',
+  course: '201d97'
+};
+
+let personB = {
+  name: 'Cameron',
+  title: 'Student',
+  course: '201d97'
+};
+
+let personC = {
+  name: 'Laurence',
+  title: 'Student',
+  course: '201d97'
+};
+
+// Constructor function
+// Parameters - UNIQUE TO THE OBJECT
+// THIS - IN A CONSTRUCTOR refers to the object that will be created
+
+// use capitalization to signify a constructor
+function Person(firstName, title){
+  this.name = firstName;
+  this.title = title;
+  this.course = '201d97'
+}
+
+// Create Objects using Constructor
+let alex = new Person('Alex', 'Student');
+let mark = new Person('Mark', 'TA');
+let reece = new Person('Reece', 'Student');
+
+console.log(alex); // ouputs Person object with alex as name, student as title, and course as 201d97
+console.log(personA);
+// PROTOTYPE === INHERTIS
+// SPECIAL OBJECT THAT COMES WITH OUR CONSTRUCTOR
+// USED TO STORE METHODS
+
+Person.prototype.greeting = function(){
+  console.log(`Hello class my name is ${this.name}`);
+}
+
+reece.greeting();
+
+Array.prototype.myMethod = function(){
+  console.log('I can do this on an array!');
+}
+
+let myArr = ['Hello!'];
+myArr.myMethod();
+```
+
 ## Things I want to know more about
