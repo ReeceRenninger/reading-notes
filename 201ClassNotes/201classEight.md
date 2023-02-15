@@ -21,4 +21,38 @@
 
 ## Class Notes
 
+-Loop Notes for lab from yesterday
+
+```js
+'use strict';
+
+let numsArr = [
+  [1,2,3],
+  [4,5,6],
+  [7,8,9]
+];
+// 12, 15, 18
+console.table(numsArr);
+// numsArr[0][0] - 1
+// numsArr[1][0] - 4
+// numsArr[2][0] - 7
+
+// numsArr[0][1] - 2
+// numsArr[1][1] - 5
+// numsArr[2][1] - 8
+
+// numsArr[0][2] - 3
+// numsArr[1][2] - 6
+// numsArr[2][2] - 9
+
+// numsArr[j][i]
+for(let i = 0;i < numsArr.length; i++) { // slow loop
+  let sum = 0;
+  for(let j = 0; j < numsArr.length;j++){ // fast loop
+    sum += numsArr[j][i];
+  }
+  console.log(sum); // 12,15,18
+};
+```
+
 ## Things I want to know more about
