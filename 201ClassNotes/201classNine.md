@@ -45,4 +45,77 @@ btn.addEventListener('click', () => {
 
 ## Class Notes
 
+```js
+'use strict';
+// Step 1: select an element to attach an event to
+let myH2 = document.querySelector('h2');
+// Step 3: create function to run could when event is triggered
+function handleClick(event){
+  alert('This h2 was clicked!')
+}
+// Step 2: attach addeventListener with 'click' event to listen for and attach function to handle
+myH2.addEventListener('click', handleClick);
+```
+
+- Form breakdown HTML and JS examples below
+
+```html
+<form id="my-form">
+<fieldset>
+  <legend>Fieldset Header</legend>
+<!--   INPUTS AND LABESL 2 OPTIONS-->
+<!--   OPTION 1: INPUT AND LABELS ARE SIBLINGS -->
+<!--    IMPORTANT LABEL MUST HAVE A FOR ATTRIBUTE AND THE INPUT WILL HAVE A MATCHING ID ATTRIBUTE-->
+<label for="username">Name: </label>
+<input for="username" type="text" placeholder="ex. John Smith" name="username" required>
+
+<!-- OPTION 2: IS TO NEST THE INPUT INSIDE OF THE LABEL -->
+  <label>Age: 
+    <input type="number">
+  </label>
+
+  <label for="password">Password: </label>
+  <input id="password" type="password" name="password">
+
+  <label for="housewives">Fav Housewives</label>
+  <select name="housewives" id="housewives">
+    <option value="">*</option>
+    <option value="beverlyhills">Beverly Hills</option>
+    <option value="Salt Lake City">Salt Lake City</option>
+    <option value="Arizona">Arizona</option>
+  </select>
+  <button type="submit">Submit</button>
+</fieldset>
+  
+  
+</form>
+```
+
+```js
+'use strict';
+
+//Todo : Step 1 GRAB THE ELEMENT I WANT TO LISTEN TO
+let myForm = document.getElementById('my-form');
+
+// TODO: STEP 3 DEFINE MY HANDLER
+function handleFormSubmit(event){
+  // ON ANY FORM HANDLER PUT event.preventDefault();
+  event.preventDefault();
+  console.log('Form Submitted!');
+  // grabbing user input after form submission and printing their input
+  let username = event.target.username.value;
+  console.log(username);
+  // + converts the string to a number , or can use parseInt
+  let password = +event.target.password.value;
+  console.log(password);
+
+  let age = event.target.age.value;
+  console.log(age);
+  console.log(typeof age); //age will come back as STRING even if we set type to NUMBER in JS
+}
+
+//TODO: STEP 2 ATTACH MY EVENT LISTENER
+myForm.addEventListener('submit', handleFormSubmit);
+```
+
 ## Things I want to know more about
