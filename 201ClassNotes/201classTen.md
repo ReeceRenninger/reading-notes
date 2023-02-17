@@ -22,4 +22,44 @@
 
 ## Class Notes
 
+- Array Methods
+  - Syntax: array.method();
+
+```js
+'use strict';
+
+let months = ['Dec', 'Feb', 'Apr', 'June'];
+
+// ********** ADD TO AN ARRAY *****
+// .push(); >>>> adds to the end
+months.push('July','Aug');
+console.log(months);
+
+// .unshift(); >>> adds to the beginning of array
+months.unshift('January');
+console.log(months);
+
+// ****** REMOVE FROM AN ARRAY ******
+//.pop(); >>> removes the last element in the array - takes no arguments, pop returns the popped element
+let aug = months.pop();
+console.log(months);
+console.log(aug);
+
+//.shift(); >>>> removes the first element in the array - takes no arguments; return the shifted element
+let jan = months.shift();
+console.log(months);
+console.log(jan);
+
+// ********* ADD OR REMOVE from ANYWHERE in the array *****
+//.splice()
+// arguments - what index to start at, # of elements to remove(if any), what to add (if any)
+
+months.splice(2,0,'March'); //start at index 2, remove nothing, add March in at index 2
+console.log(months);
+
+// .include() - return a boolean if the argument is in the array
+let isItThere = months.includes('Feb');
+console.log(isItThere); //true
+```
+
 ## Things I want to know more about
