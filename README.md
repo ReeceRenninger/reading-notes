@@ -21,22 +21,38 @@ Code 102 - Intro to Software Development
 
 Code 201 - Foundations of Software Development
 
-- [Class 01 Notes](201ClassNotes/201classOne.md)
-- [Class 02 Notes](201ClassNotes/201classTwo.md)
-- [Class 03 Notes](201ClassNotes/201classThree.md)
-- [Class 04 Notes](201ClassNotes/201classFour.md)
-- [Class 05 Notes](201ClassNotes/201classFive.md)
-- [Class 06 Notes](201ClassNotes/201classSix.md)
-- [Class 07 Notes](201ClassNotes/201classSeven.md)
-- [Class 08 Notes](201ClassNotes/201classEight.md)
-- [Class 09 Notes](201ClassNotes/201classNine.md)
-- [Class 10 Notes](201ClassNotes/201classTen.md)
-- [Class 11 Notes](h201ClassNotes/201classEleven.md)
-- [Class 12 Notes](201ClassNotes/201classTwelve.md)
-- [Class 13 Notes](201ClassNotes/201classThirteen.md)
-- [Class 14 Notes](201ClassNotes/201classFourteen.md)
+- [Class 01 Notes](201ClassNotes/201Class1Notes.md)
+- [Class 02 Notes](201ClassNotes/201Class2Notes.md)
+- [Class 03 Notes](201ClassNotes/201Class3Notes.md)
+- [Class 04 Notes](201ClassNotes/201Class4Notes.md)
+- [Class 05 Notes](201ClassNotes/201Class5Notes.md)
+- [Class 06 Notes](201ClassNotes/201Class6Notes.md)
+- [Class 07 Notes](201ClassNotes/201Class7Notes.md)
+- [Class 08 Notes](201ClassNotes/201Class8Notes.md)
+- [Class 09 Notes](201ClassNotes/201Class9Notes.md)
+- [Class 10 Notes](201ClassNotes/201Class10Notes.md)
+- [Class 11 Notes](h201ClassNotes/201Class11Notes.md)
+- [Class 12 Notes](201ClassNotes/201Class12Notes.md)
+- [Class 13 Notes](201ClassNotes/201Class13Notes.md)
+- [Class 14 Notes](201ClassNotes/201Class14Notes.md)
 
 Code 301 - Intermediate Software Development
+
+- [Class 01 Notes](301ClassNotes/301Class1Notes.md)
+- [Class 02 Notes](301ClassNotes/301Class2Notes.md)
+- [Class 03 Notes](301ClassNotes/301Class3Notes.md)
+- [Class 04 Notes](301ClassNotes/301Class4Notes.md)
+- [Class 05 Notes](301ClassNotes/301Class5Notes.md)
+- [Class 06 Notes](301ClassNotes/301Class6Notes.md)
+- [Class 07 Notes](301ClassNotes/301Class7Notes.md)
+- [Class 08 Notes](301ClassNotes/301Class8Notes.md)
+- [Class 09 Notes](301ClassNotes/301Class9Notes.md)
+- [Class 10 Notes](301ClassNotes/301Class10Notes.md)
+- [Class 11 Notes](301ClassNotes/301Class11Notes.md)
+- [Class 12 Notes](301ClassNotes/301Class12Notes.md)
+- [Class 13 Notes](301ClassNotes/301Class13Notes.md)
+- [Class 14 Notes](301ClassNotes/301Class14Notes.md)
+- [Class 15 Notes](301ClassNotes/301Class15Notes.md)
 
 Code 401 - Advanced Software Development
 
