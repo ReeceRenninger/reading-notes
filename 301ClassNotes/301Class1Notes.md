@@ -11,7 +11,7 @@
 [What is Props and How to Use it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)
 
 1. Props stands for properties and is being used for passing data from one component to another. Data with props are being passed in a uni-directional flow (one way from parent to child).
-2. Props are used in React by defining an attribute and its value(data), then pass it to child component(s) by using Props, then render the Props Data. 
+2. Props are used in React by defining an attribute and its value(data), then pass it to child component(s) by using Props, then render the Props Data.
 3. Props flow goes from parent to child components.
 
 ## Bookmarks
