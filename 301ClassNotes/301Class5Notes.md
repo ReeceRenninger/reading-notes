@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes
+## Notes: Putting it all together
 
 [React Docs - Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 

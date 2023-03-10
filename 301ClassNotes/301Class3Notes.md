@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes
+## Notes: Passing Functions as Props
 
 [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 
