@@ -31,7 +31,7 @@ Code 201 - Foundations of Software Development
 - [Class 08 Notes](201ClassNotes/201Class8Notes.md)
 - [Class 09 Notes](201ClassNotes/201Class9Notes.md)
 - [Class 10 Notes](201ClassNotes/201Class10Notes.md)
-- [Class 11 Notes](h201ClassNotes/201Class11Notes.md)
+- [Class 11 Notes](201ClassNotes/201Class11Notes.md)
 - [Class 12 Notes](201ClassNotes/201Class12Notes.md)
 - [Class 13 Notes](201ClassNotes/201Class13Notes.md)
 - [Class 14 Notes](201ClassNotes/201Class14Notes.md)
