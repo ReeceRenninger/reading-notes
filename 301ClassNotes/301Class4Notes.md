@@ -4,7 +4,7 @@
 
 [React Docs - Forms](https://reactjs.org/docs/forms.html)
 
-1.
+1. A controlled component 
 2.
 3.
 
