@@ -25,7 +25,7 @@ if(x===y){
 
 [React Bootstrap - Forms](https://react-bootstrap.github.io/forms/overview/)
 
-[React Dodcs - Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+[React Docs - Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
 
 ## Class Notes
 
