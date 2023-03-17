@@ -8,13 +8,13 @@
 
 [How I explained REST to my brother](https://gist.github.com/brookr/5977550)
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1. He helped write the first web servers to send documents across the internet and then did a ton of research explaining why web works the way it does.
+2. Because our techniques were built to talk to any machine at first, then future techniques were developed to talk to a small group of machines.
+3. It was created with the intent of something like applying verbs to nouns. It utilizes verbs like GET to send a request for a browser and comes back as a web page. 
+4. GET retrieves something and brings it back, which can be applied to a multitude of different things like an image, text, video, slideshow etc.
+5. POST is how one system can add something to another system.
+6. PUT can be used to replace something in another system.
+7. PATCH does something similar to PUT but it does only a partial update.
 
 API Keys
 
