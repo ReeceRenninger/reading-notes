@@ -11,7 +11,8 @@
 
 [Authorization and Authentication flows](https://auth0.com/docs/flows)
 
-1. 
+1. Authentication is the process of verifying who a user is while authorization is the process of verifying what they have access to.
+![Alt text](../AuthenicationvsAuthorization.png)
 2. The Authorization code flow is the user clicking login, Auth0's SDK redirects the user to the authorization prompt, user authenticates using one of the login options and consent to permissions of the Auth0, the authentication redirects the user back to application, the code goes through the authentication server, the server verifies the code and client ID secret, then ID token and access are used and the API responds with the data.
 ![Alt text](../AuthorizationCodeFlow.png)
 3. PKCE authentication is very similar to the steps above however utilizes code challenge and code verifier.
