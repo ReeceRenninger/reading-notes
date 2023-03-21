@@ -10,9 +10,9 @@
 [Employee Breakdown of key technology companies](https://informationisbeautiful.net/visualizations/diversity-in-tech/)
 [Why diversity matters to your tech company](https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/)
 
-1.
-2.
-3.
+1. Diversity efforts are most successful when driven by a commitment from company leaders.
+2. Because diversity brings forth more creative solutions since people have the ability to view the problems from a completely different perspective.
+3. Disabilities or characteristics can be looked over if there isn't a diverse approach to a project.  As noted in the in the reading how the entire iOS app was built around people being right handed, it cause a large number of videos to be rendered upside down.  Someone who is partially impaired visually could tell the team first hand how something is effective or ineffective for them.  Diverse groups can ensure that all the different approaches to development are covered and can be more effective in their communities.  
 
 ## Class Notes
 
