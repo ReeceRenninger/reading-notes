@@ -7,7 +7,7 @@
 1.
 In your own words, describe what each group of status code represents:
 
-    100’s =
+    100’s = Informational status codes. Usually tell the client that the header part of the request has been received and the server will try to comply with a transmission demand of client.
     200’s =
     300’s =
     400’s =
