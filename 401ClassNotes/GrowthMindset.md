@@ -24,7 +24,12 @@
 
 [Alain de Botton on Redefining Success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)
 
--
+- I liked the idea of the amount of pressure feel because now you can do "anything" so if you do not do something of meaning to others, you feel degraded.
+- The idea that everyone can be the next greatest creator if you simply have access to a few things, than what are you doing with yourself is a dangerous thought process to take.
+- Not everyone is going to be the next Einstein, yet that is what is expected given the new opportunities people are given.
+- You do not know someone's true value, so do not rush to judge someone.
+- You can't be successful at everything, the idea of being able to balance everything is a hard concept to actually hold ourselves to.
+- Having our own idea of what true success is will allow for us to achieve that idea more likely than following someone else's idea of success.
 
 [Your emotional intelligence](https://codefellows.github.io/common_curriculum/career_coaching/201/emotional-intelligence-assessment.html)
 
