@@ -39,21 +39,21 @@ Code 201 - Foundations of Software Development
 
 Code 301 - Intermediate Software Development
 
-- [Class 01 Notes](301ClassNotes/301Class1Notes.md)
-- [Class 02 Notes](301ClassNotes/301Class2Notes.md)
-- [Class 03 Notes](301ClassNotes/301Class3Notes.md)
-- [Class 04 Notes](301ClassNotes/301Class4Notes.md)
-- [Class 05 Notes](301ClassNotes/301Class5Notes.md)
-- [Class 06 Notes](301ClassNotes/301Class6Notes.md)
-- [Class 07 Notes](301ClassNotes/301Class7Notes.md)
-- [Class 08 Notes](301ClassNotes/301Class8Notes.md)
-- [Class 09 Notes](301ClassNotes/301Class9Notes.md)
-- [Class 10 Notes](301ClassNotes/301Class10Notes.md)
-- [Class 11 Notes](301ClassNotes/301Class11Notes.md)
-- [Class 12 Notes](301ClassNotes/301Class12Notes.md)
-- [Class 13 Notes](301ClassNotes/301Class13Notes.md)
-- [Class 14 Notes](301ClassNotes/301Class14Notes.md)
-- [Class 15 Notes](301ClassNotes/301Class15Notes.md)
+- [Introduction to React and Components](301ClassNotes/301Class1Notes.md)
+- [State and Props](301ClassNotes/301Class2Notes.md)
+- [Passing Functions as Props](301ClassNotes/301Class3Notes.md)
+- [React and Forms](301ClassNotes/301Class4Notes.md)
+- [Putting it all together](301ClassNotes/301Class5Notes.md)
+- [NODE.JS](301ClassNotes/301Class6Notes.md)
+- [REST](301ClassNotes/301Class7Notes.md)
+- [APIS](301ClassNotes/301Class8Notes.md)
+- [Functional Programming](301ClassNotes/301Class9Notes.md)
+- [In Memory Storage](301ClassNotes/301Class10Notes.md)
+- [MongoDB and Mongoose](301ClassNotes/301Class11Notes.md)
+- [CRUD](301ClassNotes/301Class12Notes.md)
+- [More CRUD](301ClassNotes/301Class13Notes.md)
+- [Diversity & Inclusion in the Tech Industry](301ClassNotes/301Class14Notes.md)
+- [Authentication](301ClassNotes/301Class15Notes.md)
 
 Code 401 - Advanced Software Development
 
