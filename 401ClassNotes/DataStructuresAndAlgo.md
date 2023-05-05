@@ -5,7 +5,9 @@
 ### Watch
 
 [Basic Recursion](https://www.youtube.com/watch?v=vPEJSJMg4jY)
+
 [Data Structures in 15 minutes](https://www.youtube.com/watch?v=sVxBVvlnJsM)
+
 [Big O Explained](https://www.youtube.com/watch?v=v4cd1O4zkGw)
 
 ### Read
