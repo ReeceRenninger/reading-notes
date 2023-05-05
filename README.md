@@ -105,14 +105,15 @@ Code 401 - Advanced Software Development
 
 ## Hello my name is Reece Renninger and I am currently a student at Code Fellows in the 201 class. I am a United States Marine Corps veteran and I previously attended California State University Long Beach where I earned my BA in Psychology.  I am pursuing this new career in coding because it has always been my dream.
 
-Link to my [github portfolio](https://github.com/ReeceRenninger)
+[GitHub](https://github.com/ReeceRenninger)
+[LinkedIn](https://www.linkedin.com/in/reecerenninger/)
 
 🇺🇸 Fun facts: 🇺🇸
 
 - While stationed in DC I performed Tuesday evening parades every summer at the Iwo Jima Memorial.
 
-![iwo jima memorial](Iwoparade.Me.jpg)
+![iwo jima memorial](imgs/Iwoparade.Me.jpg)
 
 - I had the honor of doing the coin flip for an international soccer game.
 
-![soccer game](coinflip.peruVSus.jpg)
+![soccer game](imgs/coinflip.peruVSus.jpg)
