@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes
+## Notes: Psychological Safety
 
 [What Google Learned From Its Quest to Build the Perfect Team](https://web.archive.org/web/20221125192300/https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 

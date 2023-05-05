@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes
+## Notes: CSS Transitions
 
 [CSS Transforms](http://learn.shayhowe.com/advanced-html-css/css-transforms/)
 

@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-# Notes
+# Notes: HTML Links, JS Functions, and Intro to CSS Layout
 
 [Learn HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 [Creating Hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)

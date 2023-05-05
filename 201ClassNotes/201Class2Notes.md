@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes
+## Notes: Basics of HTML, CSS, & JS
 
 [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 

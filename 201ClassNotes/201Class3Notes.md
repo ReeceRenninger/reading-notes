@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes
+## Notes: HTML Lists, Control FLow with JS, and the CSS Box Model
 
 [Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 

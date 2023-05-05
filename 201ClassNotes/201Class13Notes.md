@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes
+## Notes: Local Storage
 
 [Local Storage and How to use It On Websites](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)
 

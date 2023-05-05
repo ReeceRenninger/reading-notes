@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes
+## Notes: Forms and JS Events
 
 [HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 

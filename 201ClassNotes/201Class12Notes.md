@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes
+## Notes: Chart.js, Canvas
 
 [JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
 

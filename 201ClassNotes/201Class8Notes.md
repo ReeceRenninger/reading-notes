@@ -19,7 +19,7 @@
 
 [Learn CSS - Layout](https://web.dev/learn/css/layout/)
 
-## Class Notes
+## Class Notes: CSS Layout
 
 -Loop Notes for lab from yesterday
 
