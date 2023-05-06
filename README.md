@@ -76,7 +76,6 @@ Code 401 - Advanced Software Development
 - [AWS: S3 and Lambda](401ClassNotes/401Class17Notes.md)
 - [AWS: API, Dynamo and Lambda](401ClassNotes/401Class18Notes.md)
 - [AWS: Events](401ClassNotes/401Class19Notes.md)
-Mid-Class Week Project ()
 - [Component Based UI](401ClassNotes/401Class26Notes.md)
 - [useState() Hook](401ClassNotes/401Class27Notes.md)
 - [Component Lifecycle/ useEffect Hook](401ClassNotes/401Class28Notes.md)
