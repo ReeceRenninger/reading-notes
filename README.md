@@ -71,7 +71,7 @@ Code 401 - Advanced Software Development
 - [Socket.io](401ClassNotes/401Class12Notes.md)
 - [Message Ques](401ClassNotes/401Class13Notes.md)
 - [Event Driven Architecture](401ClassNotes/401Class14Notes.md)
-- [Trees](401ClassNotes/401Class15Notes.md) 
+- [Trees](401ClassNotes/401Class15Notes.md)
 - [AWS: Cloud Servers](401ClassNotes/401Class16Notes.md)
 - [AWS: S3 and Lambda](401ClassNotes/401Class17Notes.md)
 - [AWS: API, Dynamo and Lambda](401ClassNotes/401Class18Notes.md)
