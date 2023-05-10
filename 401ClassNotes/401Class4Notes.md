@@ -16,9 +16,9 @@
 
 [sql vs nosql](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 
-- 
--
--
+- Keywords and parameters are treated differently within SQL syntax. Keywords refer to an individual SQL element whereas parameters are used to exchange data between stored procedures or function.  The keywords allow users to find a singular element of some kind while parameters can call data values based off a stored procedure or function.
+- We normalize data by fitting the data into how the table is structured. Schemas are normalized in the way that incoming data will be all identical formatting to fit into the tables to allow for a uniformed setup of the data.
+- A one to one relationship can be described as one table being related to one record in another table. So, if I was sitting at a table and my brother was sitting at another table with 3 other people, we would have one to one relationship.  A one to many would be if the same scenario above had my mother, father, and brother sitting at the opposing table.  I would be the one and they would be the many in the relationship. Lastly, a many to many relationship would be if my cousins, aunts, and uncles joined me at my table while my brother, sister, father, and mother were at another table.  We would have a many to many relationship because of how many connections we had between our 2 tables.
 
 ## Bookmark
 
