@@ -10,13 +10,13 @@
 
 [sql modeling techniques](https://www.essentialsql.com/get-ready-to-learn-sql-7-simplified-data-modeling/)
 
--
--
--
+- An entry in one table being related to MORE THAN ONE other entry in another table is considered a one-to-many relationship.  We relate them as entries that can have many connected entries, such as describing all the workers within a department.
+- Prior to designing your relational database, it might be useful to **draw a diagram** of the database tables and their relationships.
+- Primary keys uniquely identify each row in a table.  A table typically has one primary key, BUT can have more.  Foreign keys are a column or columns which MATCH a primary key in another table. These two keys are the glue of how we can create a database with connecting information across data.
 
 [sql vs nosql](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 
--
+- 
 -
 -
 
@@ -26,7 +26,7 @@
 
 ## Reflection
 
--
+- I think I have two major learning goals after reading through the learning objectives.  Firstly, I want to make sure that I am comfortable with all of the CRUD functionality as well as how to set up each different function.  Secondly, understanding how to navigate through an SQL database using commands is going to be difficult based off the short amount that are presented in the reading.  I think that SQL is going to feel very different from the NoSQL databases we have dealt with before.
 
 ## Class Notes
 
