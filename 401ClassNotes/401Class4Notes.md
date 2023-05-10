@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes:
+## Notes: Data Modeling
 
 [nosql vs sql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 
