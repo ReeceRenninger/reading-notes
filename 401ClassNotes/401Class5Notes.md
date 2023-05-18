@@ -2,22 +2,77 @@
 
 ## Notes:
 
-To turn in your reading “Reply” to this discussion by teaching something that you learned. Then review what one of your classmates learned, and leave a comment.
+Given that we are going to need to be familiar with the Sequelize documentation, I thought it would be nice to have direct links to some of the common areas we will be using and this is something that I can continue to update as we get more experience!
 
-Some ideas for how you might want to teach:
+The examples below will require express and router to be imported as well as a working model(with schema) to create or update.
 
-    Use an analogy
-    Explain a detail in depth
-    Use WHY, WHAT, HOW structure
-    Tutorial / walk through an example
-    Write a quiz
-    Create a vocabulary/definition list
-    Write a cheat sheet
-    Create a diagram / visualization / cartoon of a topic
-    Anthropomorphize the concepts, and write a conversation between them
-    Build a map of the information
-    Construct a fill-in-the-blank worksheet for the topic
+```javascript
+const express = require('express');
+const router = express.Router();
+```
 
+- POST : (create an entry) [Create Method](https://sequelize.org/docs/v6/core-concepts/model-instances/#a-very-useful-shortcut-the-create-method)
+
+```javascript
+router.post('/something', async (req, res) => {
+  let newSomething = await somethingModel.create(req.body);
+
+  res.status(200).send(newSomething);
+});
+```
+
+- GET : (all) [Simple Select Queries](https://sequelize.org/docs/v6/core-concepts/model-querying-basics/#simple-select-queries)
+
+```javascript
+router.get('/something', async (req, res) => {
+  let allSomethingEntries = await somethingModel.findAll();
+  
+  res.status(200).send(allSomethingEntries);
+});
+```
+
+- GET : (one entry) [Simple Select Queries](https://sequelize.org/docs/v6/core-concepts/model-querying-basics/#simple-select-queries)
+
+```javascript
+router.get('/something/:id', async (req, res) => {
+  let singleSomething = await somethingModel.findAll({ where: { id: req.params.id } });
+  
+  if (singleSomething === null) {
+    console.log('something item not found!');
+  } else {
+    res.status(200).send(singleSomething);
+  }
+});
+```
+
+- PUT : (update one entry) [Simple Update Queries](https://sequelize.org/docs/v6/core-concepts/model-querying-basics/#simple-update-queries)
+
+```javascript
+router.put('/something/:id', async (req, res) => {
+  await somethingModel.update(req.body, {
+    where: {
+      id: req.params.id,
+    },
+  });
+  let updatedSomething = await somethingModel.findAll({ where: { id: req.params.id } });
+  res.status(200).send(updatedSomething);
+});
+```
+
+- DELETE : (delete one entry) [Simple Delete Queries](https://sequelize.org/docs/v6/core-concepts/model-querying-basics/#simple-delete-queries)
+
+```javascript
+router.delete('/something/:id', async (req, res) => {
+  let id = parseInt(req.params.id);
+  await somethingModel.destroy({
+    where: {
+      id,
+    },
+  });
+
+  res.status(200).send('something item selected was deleted!');
+});
+```
 
 ## Resources
 
