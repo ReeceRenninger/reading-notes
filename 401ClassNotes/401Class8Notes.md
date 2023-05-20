@@ -30,7 +30,7 @@ Fifth, audit. Periodically review your roles and who is assigned to them with th
 
 ## Reflection
 
--
+- My learning goals after reading through the README.md, I want to be comfortable with the access controls and how the application flow works. There are a large amount of steps for the front end and backend on how the application stacks works and I want to be more comfortable with how those both operate.
 
 ## Class Notes
 
