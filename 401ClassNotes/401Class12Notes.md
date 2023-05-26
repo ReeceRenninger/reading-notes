@@ -43,7 +43,7 @@
 
 ## Reflection
 
--
+- Understand the OSI model better. I watched the video twice trying to understand all the different steps and how data is changed and sent etc.  It sounds really cool but also very confusing.  
 
 ## Class Notes
 
