@@ -17,18 +17,19 @@
 [Socket.io vs Web Sockets](https://www.educba.com/websocket-vs-socket-io/)
 
 - Socket.io is a library that enables real-time and full-duplex communication between clients and web servers.  To do this it uses WebSocket protocol to provide the interface.  WebSocket remains opens all the time so they allow for real time data transfer.
--
--
+- You would use Socket.IO when you need to full-duplex communication in real-time, it can handle various support levels, gives additional features room support for basic publish infrastructure.
+- WebSocket should be used when you do not need to broadcast, dont need fallback options, you need to establish protocol over a TCP connection.
 
 ## Videos:
 
 [OSI Model Explained](https://www.youtube.com/watch?v=vv4y_uOneC0)
 
--
+- Open System Interconnection what developed to allow for different systems to communicate with each other even if operating with different software systems.  When dealing with file transfers (FTP is used), Web Surfing(HTTP/S), Emails (SMTP), and Virtual Terminals (TELNET). There are multiple layers that allow for OSI to work through all the different types of ways files can be moved around. The session layer helps handle authorization, authentication, and session management. Transport layer works in segmentation, flow control, error control, and connection. Network layer works primarily in pathing due to location and where you are trying to receive or send information.  Data link layer goes into how data is controlled and received from media and access to said media.  The physical layer converts the BITS (Binary Digits) that have been sent through the transport layer, to the network, to the data link layer changing forms as they move along ultimately becoming BITS. These layers are what allow for smooth functioning across the web. 
 
+![Alt text](../imgs/Screenshot%202023-05-25%20225529.png)
 [TCP Handshakes Explained](https://www.youtube.com/watch?v=xMtP5ZB3wSk)
 
--
+- The TCP handshake is how a client and user can communicate with each other.  It establishes a two-way connection between them after the "doors" have been opened on each side.  
 
 ## Bookmark
 
