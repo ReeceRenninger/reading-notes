@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes:
+## Notes: Bearer Authorization
 
 [Intro to JWT](https://jwt.io/introduction/)
 

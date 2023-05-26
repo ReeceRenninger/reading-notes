@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes:
+## Notes: Implementation: Linked Lists
 
 Given that we are going to need to be familiar with the Sequelize documentation, I thought it would be nice to have direct links to some of the common areas we will be using and this is something that I can continue to update as we get more experience!
 

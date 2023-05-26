@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes:
+## Notes: Message Queues
 
 [Socket.io Chat Example](https://socket.io/get-started/chat/)
 

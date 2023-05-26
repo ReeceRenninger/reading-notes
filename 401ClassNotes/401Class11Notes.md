@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes
+## Notes: Event Driven Applications
 
 [Event Driven Programming](https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming)
 

@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes:
+## Notes: Event Driven Architecture
 
 [Read Today's Lab Requirements](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-14/lab/)
 

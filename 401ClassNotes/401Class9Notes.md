@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes:
+## Notes: Authorization/Authentication
 
 [Read today's Lab Requirements](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-09/lab/)
 

@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes:
+## Notes: Socket.io
 
 [Web Sockets](https://en.wikipedia.org/wiki/WebSocket)
 

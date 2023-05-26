@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes:
+## Notes: Authentication
 
 [Securing Woods](https://thehackernews.com/2014/04/securing-passwords-with-bcrypt-hashing.html)
 
