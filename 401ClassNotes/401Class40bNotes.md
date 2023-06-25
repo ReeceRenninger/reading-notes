@@ -12,6 +12,7 @@
 
 [Call for Code: Open Source for Good](https://callforcode.org/)
 
+- I never realized there was so much resources to get involved with OSS. I think it's a great idea to get involved with OSS as a way to get your name out there and to get some experience working on a team. I think it's also a great way to get some experience with a new language or framework. I think I will definitely try to get involved with some OSS projects in the future. Or even start my own with some of the beginner friendly projects that were mentioned. I will need to deep dive into how to host a project on GitHub and how to get people involved with it.
 
 ## Class Notes
 
