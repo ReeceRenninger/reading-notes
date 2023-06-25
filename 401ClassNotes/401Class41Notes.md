@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes:
+## Notes: Framworks
 
 [Learn Next.js](https://nextjs.org/learn/basics/getting-started)
 

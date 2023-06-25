@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes:
+## Notes: Redux Additional Topics
 
 [Redux Toolkit(RTK)](https://redux-toolkit.js.org/introduction/getting-started)
 

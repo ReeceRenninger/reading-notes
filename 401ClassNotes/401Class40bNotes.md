@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes:
+## Notes: Open Source Software Contribution
 
 [First Timers Only](https://www.firsttimersonly.com/)
 

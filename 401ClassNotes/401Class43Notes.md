@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes:
+## Notes: React Native
 
 [getting started with react native](https://facebook.github.io/react-native/docs/getting-started)
 

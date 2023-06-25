@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes:
+## Notes: Redux - Combined Reducers
 
 [Multiple Reducers Example](https://www.youtube.com/watch?v=gBER4Or86hE)
 

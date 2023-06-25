@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes:
+## Notes: Application State with Redux
 
 [Dan Abramov Redux Tutorials](https://egghead.io/courses/getting-started-with-redux)
 

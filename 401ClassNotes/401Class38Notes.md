@@ -1,6 +1,6 @@
 # [Back to Main Page](https://reecerenninger.github.io/reading-notes/)
 
-## Notes:
+## Notes: Redux Asynchronous Actions
 
 [async actions](https://redux.js.org/advanced/asyncactions)
 
