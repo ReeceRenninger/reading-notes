@@ -14,7 +14,7 @@
 
       Server-Side Rendering (SSR): Next.js provides built-in support for server-side rendering, which means that the server can generate the initial HTML content and send it to the client. This allows search engines to crawl and index the content effectively, leading to better SEO performance. Additionally, SSR improves the initial page load time by pre-rendering the HTML on the server, providing a faster and more interactive user experience.
 
-     Automatic Code Splitting and Prefetching: Next.js offers automatic code splitting, which means that only the necessary JavaScript code for each page is loaded, reducing the initial bundle size. It also intelligently prefetches the JavaScript and other assets required for subsequent pages, enhancing the overall performance and reducing the time it takes to navigate between pages. This feature helps in optimizing the application's performance and ensuring a smoother user experience.
+      Automatic Code Splitting and Prefetching: Next.js offers automatic code splitting, which means that only the necessary JavaScript code for each page is loaded, reducing the initial bundle size. It also intelligently prefetches the JavaScript and other assets required for subsequent pages, enhancing the overall performance and reducing the time it takes to navigate between pages. This feature helps in optimizing the application's performance and ensuring a smoother user experience.
 
 - Gatsby.js documentation dives into a multitude of different things that Gatsby.js can do but a couple big ones I found were:
 
